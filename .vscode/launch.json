@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/arthu/OneDrive/Documentos/GitHub/aulas-c/aula3",
-      "program": "c:/Users/arthu/OneDrive/Documentos/GitHub/aulas-c/aula3/build/Debug/outDebug",
+      "cwd": "c:/Users/arthu/OneDrive/Documentos/GitHub/aulas-c/aula4",
+      "program": "c:/Users/arthu/OneDrive/Documentos/GitHub/aulas-c/aula4/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
